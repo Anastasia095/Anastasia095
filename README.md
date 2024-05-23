@@ -17,18 +17,6 @@ I'm a Full-Stack Developer and a CS student.
 ### DevOps and Tools
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab&logoColor=white)
 
-
-## 📋 Experience in VOIP
-
-- Proficient in analyzing server logs, specifically Asterisk logs, to troubleshoot issues and identify root causes.
-- Skilled in monitoring live server logs during testing and production environments to detect anomalies and performance issues.
-- Familiar with diagnostic tools and utilities used in VOIP environments, such as Wireshark, tcpdump, and SIPp.
-- Experienced in configuring and managing Asterisk servers, including setting up extensions, trunks, and dial plans.
-- Understanding of Quality of Service (QoS) principles and techniques to prioritize VOIP traffic and optimize call quality.
-- Capable of documenting troubleshooting procedures, solutions, and system configurations for future reference and knowledge sharing.
-- Proficient in setting up FreePBX servers for VOIP communication.
-
-
 ## 📊 GitHub Stats
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Anastasia095&show_icons=true&theme=radical)
