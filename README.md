@@ -1,8 +1,7 @@
 
 # Hi there, I'm Anastasia 👋🐱‍👤
 
-I'm a Full-Stack Developer and a CS student.
-
+I'm a Full-Stack Developer focusing on PHP (Laravel). Alongside my work, I'm pursuing a degree in Computer Science at UCF. I hope to one day finally finish school—it's been a long journey, but I'm determined to get there!
 ## 🚀 Skills and Technologies
 
 ### Languages
