@@ -19,4 +19,5 @@ I'm a Full-Stack Developer focusing on PHP (Laravel). Alongside my work, I'm pur
 ## 📊 GitHub Stats
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Anastasia095&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Anastasia095&layout=compact&theme=radical)
+![Anastasia095's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Anastasia095&theme=dracula&show_icons=true&hide_border=false&layout=compact)
+
