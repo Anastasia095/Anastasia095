@@ -1,7 +1,6 @@
 
 # Hi there, I'm Anastasia 👋😺
 
-I'm a Full-Stack Developer focusing on PHP (Laravel). Alongside my work, I'm pursuing a degree in Computer Science at UCF. It's been a long journey, but I’m looking forward to graduating soon!
 ## 🚀 Skills and Technologies
 
 ### Languages
