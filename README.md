@@ -28,5 +28,3 @@ Software Engineer working on backend systems, APIs, and third-party service inte
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
-[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=Anastasia095&langs_count=7&theme=dracula&hide=jupyter%20notebook)](https://github-stats-extended.vercel.app/api/top-langs?username=Anastasia095&langs_count=5&theme=dracula)
